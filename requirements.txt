@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+anthropic
+sentence-transformers
+chromadb
+google-genai
+python-multipart
+gitpython
+python-dotenv
+requests
